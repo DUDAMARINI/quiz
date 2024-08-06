@@ -62,4 +62,3 @@ const perguntas = [
         }
       }
     mostraPergunta();
-];
