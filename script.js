@@ -8,41 +8,41 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "PERGUNTA 1",
+        enunciado: "Você vai se casar com o amor da sua vida, e você, noiva, precisa escolher o seu look! Qual seu vestido dos sonhos? ",
         alternativas: [
             {
-                texto: "RESPOSTA 1!",
-                afirmacao: "AFIRMATIVA DA RESPOSTA 1r. "
+                texto: " Vestido sereia",
+                afirmacao: "Você irá casar com o vestido sereia,"
             },
             {
-                texto: "RESPOSTA 2",
-                afirmacao: "AFIRMATIVA RESPOSTA 2."
+                texto: "Vestido princesa",
+                afirmacao: "Você irá casar com o vestido princesa, "
             }
         ]
     },
     {
-        enunciado: "PERGUNTA 2",
+        enunciado: "Seu cabelo irá ser solto ou preso?",
         alternativas: [
             {
-                texto: "RESPOSTA 1",
-                afirmacao: "AFIRMATIVA RESPOSTA 1"
+                texto: "Cabelo solto",
+                afirmacao: "cabelo solto,"
             },
             {
-                texto: "RESPOSTA 2",
-                afirmacao: "AFIRMATIVA RESPOSTA 2"
+                texto: "Cabelo preso",
+                afirmacao: "cabelo preso, "
             }
         ]
     },
     {
-        enunciado: "PERGUNTA 3",
+        enunciado: "Maquiagem leve ou pesada?",
         alternativas: [
             {
-                texto: "RESPOSTA 1",
-                afirmacao: "AFIRMATIVA RESPOSTA 1"
+                texto: "Maquiagem leve ",
+                afirmacao: " e maquiagem leve "
             },
             {
-                texto: "RESPOSTA 2",
-                afirmacao: "AFIRMATIVA RESPOSTA 2."
+                texto: "Maquiagem pesada",
+                afirmacao: " e maquiagem pesada."
             }
         ]
     },
