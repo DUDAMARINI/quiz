@@ -80,7 +80,7 @@ function respostaSelecionada(opcaoSelecionada) {
 }
 
 function mostraResultado() {
-    caixaPerguntas.textContent = " Um ano depois...";
+    caixaPerguntas.textContent = " Pronto,você está pronta";
     textoResultado.textContent = historiaFinal;
     caixaAlternativas.textContent = "";
 }
